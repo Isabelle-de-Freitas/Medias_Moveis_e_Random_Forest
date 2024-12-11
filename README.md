@@ -31,27 +31,27 @@ O **objetivo** deste trabalho é realizar a previsão da temperatura para as pr�
 - $8.$ Proposta de um Modelo Baseline
     - $8.1$ Preparação dos dados
     - $8.2$ Modelo de Médias Móveis
-    - $8.3$ Gráfico de linhas do Modelo de Médias Móveis
-    - $8.4$ Tratamentos para aplicar a métrica MAE
-    - $8.5$ Métrica MAE - Mean Absolute Error
-    - $8.6$ Análise de resíduos
-    - $8.7$ Conclusão sobre o Modelo de Médias Móveis
+        - $8.2.1$ Gráfico de linhas do Modelo de Médias Móveis
+        - $8.2.2$ Tratamentos para aplicar a métrica MAE - Médias Móveis
+        - $8.2.3$ Aplicação da Métrica MAE - Médias Móveis
+        - $8.2.4$ Análise dos resíduos - Médias Móveis
+        - $8.2.5$ Conclusão sobre o Modelo de Médias Móveis
 - $9.$ Proposta de um modelo mais complexo
     - $9.1$ Aprendizado de máquina
     - $9.2$ Random Forest
-    - $9.2.1$ Preparação dos dados
-    - $9.2.2$ Análise descritiva
-    - $9.2.3$ Preparação dos dados para a modelagem
-    - $9.2.4$ Modelagem
-    - $9.2.5$ Gráfico de linhas do Modelo Random Forest
-    - $9.2.6$ Aplicação da métrica MAE - Random Forest
-    - $9.2.7$ Análise de resíduos
-    - $9.2.8$ Seleção de variáveis importantes
-    - $9.2.9$ Otimização de hiperparâmetros
-    - $9.2.10$ Aplicação da métrica MAE - Random Forest Otimizado
-    - $9.2.11$ Gráfico de linhas do Modelo Random Forest Otimizado
-    - $9.2.12$ Análise de resíduos
-    - $9.1.13$ Seleção de variáveis importantes - Random Forest Otimizado
+        - $9.2.1$ Preparação dos dados
+        - $9.2.2$ Análise descritiva
+        - $9.2.3$ Preparação dos dados para a modelagem
+        - $9.2.4$ Modelagem
+        - $9.2.5$ Gráfico de linhas do Modelo Random Forest
+        - $9.2.6$ Aplicação da métrica MAE - Random Forest
+        - $9.2.7$ Análise de resíduos - Random Forest
+        - $9.2.8$ Seleção de variáveis importantes - Random Forest
+    - $9.3$ Otimização de hiperparâmetros
+        - $9.3.1$ Aplicação da métrica MAE - Random Forest Otimizado
+        - $9.3.2$ Gráfico de linhas do Modelo Random Forest Otimizado
+        - $9.3.3$ Análise de resíduos - Random Forest Otimizado
+        - $9.3.4$ Seleção de variáveis importantes - Random Forest Otimizado
 - $10.$ Conclusão final sobre os modelos propostos
     - $10.1$ Em relação ao custo operacional
     - $10.2$ Em relação à métrica MAE
